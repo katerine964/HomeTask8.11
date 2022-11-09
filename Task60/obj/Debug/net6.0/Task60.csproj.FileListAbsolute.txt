@@ -1,0 +1,15 @@
+/Users/ekaterinaromanova/Desktop/Новая папка 2/Task60/obj/Debug/net6.0/Task60.csproj.AssemblyReference.cache
+/Users/ekaterinaromanova/Desktop/Новая папка 2/Task60/obj/Debug/net6.0/Task60.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinaromanova/Desktop/Новая папка 2/Task60/obj/Debug/net6.0/Task60.AssemblyInfoInputs.cache
+/Users/ekaterinaromanova/Desktop/Новая папка 2/Task60/obj/Debug/net6.0/Task60.AssemblyInfo.cs
+/Users/ekaterinaromanova/Desktop/Новая папка 2/Task60/obj/Debug/net6.0/Task60.csproj.CoreCompileInputs.cache
+/Users/ekaterinaromanova/Desktop/Новая папка 2/Task60/bin/Debug/net6.0/Task60
+/Users/ekaterinaromanova/Desktop/Новая папка 2/Task60/bin/Debug/net6.0/Task60.deps.json
+/Users/ekaterinaromanova/Desktop/Новая папка 2/Task60/bin/Debug/net6.0/Task60.runtimeconfig.json
+/Users/ekaterinaromanova/Desktop/Новая папка 2/Task60/bin/Debug/net6.0/Task60.dll
+/Users/ekaterinaromanova/Desktop/Новая папка 2/Task60/bin/Debug/net6.0/ref/Task60.dll
+/Users/ekaterinaromanova/Desktop/Новая папка 2/Task60/bin/Debug/net6.0/Task60.pdb
+/Users/ekaterinaromanova/Desktop/Новая папка 2/Task60/obj/Debug/net6.0/Task60.dll
+/Users/ekaterinaromanova/Desktop/Новая папка 2/Task60/obj/Debug/net6.0/ref/Task60.dll
+/Users/ekaterinaromanova/Desktop/Новая папка 2/Task60/obj/Debug/net6.0/Task60.pdb
+/Users/ekaterinaromanova/Desktop/Новая папка 2/Task60/obj/Debug/net6.0/Task60.genruntimeconfig.cache

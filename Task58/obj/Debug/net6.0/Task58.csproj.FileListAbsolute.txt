@@ -1,0 +1,15 @@
+/Users/ekaterinaromanova/Desktop/Новая папка 2/Task58/obj/Debug/net6.0/Task58.csproj.AssemblyReference.cache
+/Users/ekaterinaromanova/Desktop/Новая папка 2/Task58/obj/Debug/net6.0/Task58.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinaromanova/Desktop/Новая папка 2/Task58/obj/Debug/net6.0/Task58.AssemblyInfoInputs.cache
+/Users/ekaterinaromanova/Desktop/Новая папка 2/Task58/obj/Debug/net6.0/Task58.AssemblyInfo.cs
+/Users/ekaterinaromanova/Desktop/Новая папка 2/Task58/obj/Debug/net6.0/Task58.csproj.CoreCompileInputs.cache
+/Users/ekaterinaromanova/Desktop/Новая папка 2/Task58/bin/Debug/net6.0/Task58
+/Users/ekaterinaromanova/Desktop/Новая папка 2/Task58/bin/Debug/net6.0/Task58.deps.json
+/Users/ekaterinaromanova/Desktop/Новая папка 2/Task58/bin/Debug/net6.0/Task58.runtimeconfig.json
+/Users/ekaterinaromanova/Desktop/Новая папка 2/Task58/bin/Debug/net6.0/Task58.dll
+/Users/ekaterinaromanova/Desktop/Новая папка 2/Task58/bin/Debug/net6.0/ref/Task58.dll
+/Users/ekaterinaromanova/Desktop/Новая папка 2/Task58/bin/Debug/net6.0/Task58.pdb
+/Users/ekaterinaromanova/Desktop/Новая папка 2/Task58/obj/Debug/net6.0/Task58.dll
+/Users/ekaterinaromanova/Desktop/Новая папка 2/Task58/obj/Debug/net6.0/ref/Task58.dll
+/Users/ekaterinaromanova/Desktop/Новая папка 2/Task58/obj/Debug/net6.0/Task58.pdb
+/Users/ekaterinaromanova/Desktop/Новая папка 2/Task58/obj/Debug/net6.0/Task58.genruntimeconfig.cache
